@@ -8,5 +8,5 @@ simulated_2 <- rPLB(n = 300,
 
 par(mfrow = c(2,1))
 
-hist(simulated_1, col = "blue")
+hist(simulated_1, col="red")
 hist(simulated_2)
